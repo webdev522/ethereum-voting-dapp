@@ -25,3 +25,12 @@ In this tutorial, we will accomplish the following:
 - Interact with the contract through truffle console and then through a webpage.
 
 Link: [https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f)
+
+## Part 3
+Here is what you will learn in this tutorial:
+
+- Learn to use new data types like struct to organize and store data on the blockchain.
+- Learn the concept of tokens and its usage.
+- Learn to make payments using Ether, the currency of the Ethereum blockchain platform.
+
+Link: [https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df)
